@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="itemsoption">
+        <item>Изменить</item>
+        <item>Удалить</item>
+        <item>Отмена</item>
+    </string-array>
+    <string name="app_name">Моя комната погоды API</string>
+    <string name="checkpassword">Пароль содержит не менее 8 символов</string>
+    <string name="checkusername">Имя пользователя содержит от 3 до 20 символов только буквы или цифры</string>
+    <string name="city">Город:</string>
+    <string name="emptyfield">Пустые поля</string>
+    <string name="entercity">Введите город</string>
+    <string name="enteredincorrectly">Неправильно введено Имя Пользователя или Пароль</string>
+    <string name="errorhumidity">Влажность не может быть ниже 0% или больше 100%</string>
+    <string name="errorpressure">Давление не может быть ниже 879 или больше 1050</string>
+    <string name="errortemperature">Температура не может быть ниже -89°C или больше 57°C</string>
+    <string name="errorwindyspeed">Скорость ветра не может быть ниже 0  км/ч или больше 408 км/ч</string>
+    <string name="humidity">Влажность:</string>
+    <string name="invalidcharacters">В названии города в конце или начале присутствуют ненужные символы</string>
+    <string name="notfound">Город не найден</string>
+    <string name="now">Сейчас</string>
+    <string name="onlydigit">Температура, Скорость ветра, Давление и Влажность записываются только приемлемыми числами</string>
+    <string name="password">Пароль</string>
+    <string name="pressure">Давление:</string>
+    <string name="remember">Запомнить меня в следующий раз</string>
+    <string name="save">Сохранить</string>
+    <string name="signin">Вход</string>
+    <string name="signup">Регистрация</string>
+    <string name="startedtitle">JSON and XML Weather API and Geolocation Developer API</string>
+    <string name="temp">Температура:</string>
+    <string name="title">Регистрация</string>
+    <string name="username">Имя Пользователя</string>
+    <string name="weather">Узнать погоду</string>
+    <string name="windyspeed">Скорость ветра:</string>
+</resources>

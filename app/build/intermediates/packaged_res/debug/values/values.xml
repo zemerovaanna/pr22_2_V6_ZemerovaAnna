@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="itemsoption">
+        <item>Change</item>
+        <item>Remove</item>
+        <item>Сancel</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="gray">#5D6778</color>
+    <color name="graylight">#C9CED3</color>
+    <color name="green">#5CD377</color>
+    <color name="my_ic_launcher_background">#E6D4FA</color>
+    <color name="purple">#673AB7</color>
+    <color name="purplelight">#D6D6FB</color>
+    <color name="purplemedium">#CFB2F8</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MyWeatherAPIroom</string>
+    <string name="checkpassword">The password contains at least 8 characters</string>
+    <string name="checkusername">The username contains from 3 to 20 characters only letters or numbers</string>
+    <string name="city">City:</string>
+    <string name="emptyfield">Empty Fields</string>
+    <string name="entercity">Enter the city</string>
+    <string name="enteredincorrectly">User name or password entered incorrectly</string>
+    <string name="errorhumidity">Humidity cannot be lower than 0% or more than 100%</string>
+    <string name="errorpressure">The pressure cannot be lower than 879 or more than 1050</string>
+    <string name="errortemperature">The temperature cannot be lower than -89°C or more than 57°C</string>
+    <string name="errorwindyspeed">The wind speed cannot be lower than 0 km/h or more than 408 km/h</string>
+    <string name="humidity">Humidity:</string>
+    <string name="invalidcharacters">In the name of the city at the end or beginning there are unnecessary characters</string>
+    <string name="notfound">The city not found</string>
+    <string name="now">Now</string>
+    <string name="onlydigit">Temperature, Wind speed, Pressure and Humidity are recorded only in acceptable numbers</string>
+    <string name="password">Password</string>
+    <string name="pressure">Pressure:</string>
+    <string name="remember">Remember me next time</string>
+    <string name="save">To Save</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="startedtitle">JSON and XML Weather API and Geolocation Developer API</string>
+    <string name="temp">Temperature:</string>
+    <string name="title">Login</string>
+    <string name="username">User Name</string>
+    <string name="weather">Find Out</string>
+    <string name="windyspeed">Windy Speed:</string>
+    <style name="Base.Theme.MyWeatherAPIroom" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyWeatherAPIroom" parent="Base.Theme.MyWeatherAPIroom"/>
+</resources>

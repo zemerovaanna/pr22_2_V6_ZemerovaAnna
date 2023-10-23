@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.myweatherapiroom.app-mergeDebugResources-33:/layout/activity_weather_forecast.xml",
+        "source": "com.example.myweatherapiroom.app-main-36:/layout/activity_weather_forecast.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-mergeDebugResources-33:/layout/row_weather.xml",
+        "source": "com.example.myweatherapiroom.app-main-36:/layout/row_weather.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-mergeDebugResources-33:/layout/activity_editor.xml",
+        "source": "com.example.myweatherapiroom.app-main-36:/layout/activity_editor.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.example.myweatherapiroom.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-mergeDebugResources-33:/layout/activity_authorization.xml",
+        "source": "com.example.myweatherapiroom.app-main-36:/layout/activity_authorization.xml"
+    }
+]

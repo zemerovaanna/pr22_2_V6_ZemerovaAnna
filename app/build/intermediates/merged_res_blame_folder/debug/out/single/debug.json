@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-xhdpi_my_ic_launcher.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-xhdpi/my_ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/drawable_purplesunny.xml.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/drawable/purplesunny.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-xhdpi_my_ic_launcher_round.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-xhdpi/my_ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-anydpi-v26_my_ic_launcher_round.xml.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-anydpi-v26/my_ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-mdpi_my_ic_launcher.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-mdpi/my_ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/drawable_my_ic_launcher_foreground.xml.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/drawable/my_ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-hdpi_my_ic_launcher.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-hdpi/my_ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/layout_row_weather.xml.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/layout/row_weather.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/drawable_whitebutton.xml.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/drawable/whitebutton.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-xxxhdpi_my_ic_launcher_round.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-xxxhdpi/my_ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/layout_activity_weather_forecast.xml.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/layout/activity_weather_forecast.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-xxhdpi_my_ic_launcher.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-xxhdpi/my_ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/drawable_img.png.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-xxhdpi_my_ic_launcher_round.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-xxhdpi/my_ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-mdpi_my_ic_launcher_round.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-mdpi/my_ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/xml_backup_rules.xml.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/layout_activity_editor.xml.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/layout/activity_editor.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.myweatherapiroom.app-pngs-30:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-xxxhdpi_my_ic_launcher.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-xxxhdpi/my_ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/drawable_greenbutton.xml.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/drawable/greenbutton.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/layout_activity_authorization.xml.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/layout/activity_authorization.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-hdpi_my_ic_launcher_round.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-hdpi/my_ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/drawable_whiteedittext.xml.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/drawable/whiteedittext.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/mipmap-anydpi-v26_my_ic_launcher.xml.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/mipmap-anydpi-v26/my_ic_launcher.xml"
+    }
+]

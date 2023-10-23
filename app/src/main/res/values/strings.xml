@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MyWeatherAPIroom</string>
+
+    //MainActivity.
+    <string name="startedtitle">JSON and XML Weather API and Geolocation Developer API</string>
+    <string name="title">Login</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember me next time</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+
+    //MainActivity message.
+    <string name="emptyfield">Empty Fields</string>
+
+    //WeatherForecastActivity.
+    <string name="entercity">Enter the city</string>
+    <string name="weather">Find Out</string>
+    <string name="now">Now</string>
+    <string name="temp">Temperature:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="windyspeed">Windy Speed:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="save">To Save</string>
+
+    //WeatherForecastActivity message.
+    <string name="notfound">The city not found</string>
+
+    //RowWeather.
+    <string name="city">City:</string>
+
+    //EditorActivity message.
+    <string name="onlydigit">Temperature, Wind speed, Pressure and Humidity are recorded only in acceptable numbers</string>
+    <string name="invalidcharacters">In the name of the city at the end or beginning there are unnecessary characters</string>
+    <string name="errortemperature">The temperature cannot be lower than -89°C or more than 57°C</string>
+    <string name="errorwindyspeed">The wind speed cannot be lower than 0 km/h or more than 408 km/h</string>
+    <string name="errorpressure">The pressure cannot be lower than 879 or more than 1050</string>
+    <string name="errorhumidity">Humidity cannot be lower than 0% or more than 100%</string>
+
+    <string-array name="itemsoption">
+        <item>Change</item>
+        <item>Remove</item>
+        <item>Сancel</item>
+    </string-array>
+
+    //AuthorizationActivity.
+    <string name="enteredincorrectly">User name or password entered incorrectly</string>
+    <string name="checkusername">The username contains from 3 to 20 characters only letters or numbers</string>
+    <string name="checkpassword">The password contains at least 8 characters</string>
+</resources>
