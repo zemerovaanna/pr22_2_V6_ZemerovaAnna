@@ -117,7 +117,7 @@ class WeatherForecastActivity : AppCompatActivity() {
 
     private fun getWeather(city: String) {
         val key = "6c8d96e50f7c4a1197165537230610"
-        val url = "http://api.weatherapi.com/v1/current.json?key=$key&q=$city"
+        val url = "https://api.weatherapi.com/v1/current.json?key=$key&q=$city"
         val queue = Volley.newRequestQueue(this)
         val stringR = StringRequest(
             Request.Method.GET,
